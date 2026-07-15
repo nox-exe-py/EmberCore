@@ -1,0 +1,6 @@
+discord.py==2.7.0
+aiosqlite
+python-dotenv
+colorama
+aiohttp
+psutil
